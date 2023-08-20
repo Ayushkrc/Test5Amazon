@@ -10,3 +10,5 @@ details inside the cards have flex direction as column
 padding and marging are used to properly align the elements
 footer section is used to give all the contact details and social media details
 footer contains 4 div which are made using flex
+hover property is used to change color of links
+transorm and transition property is used for creating animation using scale property
